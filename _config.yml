@@ -1,0 +1,28 @@
+name: irbin
+favicon: null
+layout_spectrum: 0.5068510079290718
+typography_spectrum: 0.464581951033324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.21234008995816112
+  lightness: 0.9634546602610499
+  saturation: 0.9972437454853207
+  rhythmicContrast: 0.8014991390518844
+purpose: []
