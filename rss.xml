@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[irbin]]></title>
         <description><![CDATA[irbin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/irbin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 04:51:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 04:51:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/irbin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://image.jimcdn.com/app/cms/image/transf/dimension=910x10000:format=jpg/path/s4c1f8643c5564dfb/image/i0d103d8103102f43/version/1453162065/image.jpg">]]></description>
+            <link>https://thegrid.ai/irbin/21dcf1b6-80ac-4922-8582-327cb11bdb16/index.html</link>
+            <guid isPermaLink="false">21dcf1b6-80ac-4922-8582-327cb11bdb16</guid>
+            <pubDate>Fri, 29 Jan 2016 04:51:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://image.jimcdn.com/app/cms/image/transf/dimension=910x10000:format=jpg/path/s4c1f8643c5564dfb/image/i511e1a5c882b0510/version/1453289238/image.jpg">]]></description>
-            <link>undefined01a1bf1b-238e-4550-af32-69fcff1728b4/index.html</link>
+            <link>https://thegrid.ai/irbin/01a1bf1b-238e-4550-af32-69fcff1728b4/index.html</link>
             <guid isPermaLink="false">01a1bf1b-238e-4550-af32-69fcff1728b4</guid>
             <pubDate>Fri, 29 Jan 2016 04:50:59 GMT</pubDate>
         </item>
